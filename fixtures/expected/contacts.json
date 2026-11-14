@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "email": "alice@example.com",
+      "fn": "Alice Qian",
+      "tel": "+1-202-555-0102",
+      "rev": "2026-04-01T12:00:00Z"
+    },
+    {
+      "email": "charlie@example.com",
+      "fn": "Charlie Cole"
+    }
+  ]
+}

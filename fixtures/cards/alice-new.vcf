@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Alice 
+ Qian
+EMAIL:Alice@example.com
+TEL:+1-202-555-0102
+REV:2026-04-01T12:00:00Z
+PHOTO;VALUE=URI:../secret-do-not-read.txt
+END:VCARD

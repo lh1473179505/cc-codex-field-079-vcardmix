@@ -1,0 +1,1 @@
+"""vcardmix fixture package"""
